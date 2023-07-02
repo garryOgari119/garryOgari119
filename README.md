@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @garryOgari119
+- 👀 I’m interested in birds
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ... Don't know yet.
+- 📫 How to reach me? You don't need to reach me!
